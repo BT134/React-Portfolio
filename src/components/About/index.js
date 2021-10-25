@@ -12,7 +12,7 @@ function About() {
 
                 <p>
                     I'm a Full-Stack Developer located in Perth, Western Australia. New to the industry with plenty of energy and attention to detail. 
-                    Recently completed a Full Stack Web Design and Coding Bootcamp at UWA. 
+                    Recently completed a Certificate in Full Stack Web Development Coding Bootcamp at UWA. 
                     Web design/development is something that has always interested me and I want to apply my years of experience in the retail sales industry into providing clients with a high level of service and focus on their requirements.
                 </p>
                 <p>
