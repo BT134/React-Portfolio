@@ -262,6 +262,10 @@ textarea {
   padding-bottom: var(--spacing-two);
 }
 
+#resume {
+  font-size: 1.5rem;
+}
+
 .wrapper {
   padding-top: 50px;
   justify-content: space-around;

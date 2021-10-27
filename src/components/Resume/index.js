@@ -30,30 +30,25 @@ function Resume() {
           </ul>
         </div>
       </div>
-
-    <div>
-      <p class="mt-5">
-            <a href="https://www.linkedin.com/in/brenton-turnor-345831b2/">
-              linkedin<img
-                src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-                alt="inkedIn"
-              />
+      <br></br>
+      <br></br>
+        <div>
+          <p>
+            <a
+            href="https://github.com/BT134/React-Portfolio/raw/main/docs/Brenton-Turnor-Resume.pdf"
+            class="link" id="resume"
+            >
+            Download Resume
             </a>
           </p>
-          <a
-            href="https://github.com/BT134/React-Portfolio/raw/main/docs/Brenton-Turnor-Resume.pdf"
-            class="link"
-          >
-            Download Resume
-          </a>
-    </div>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
+        </div>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
     </section>
   );
 }
