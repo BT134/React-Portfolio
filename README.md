@@ -32,7 +32,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 > Portfolio can be viewed [HERE]()
 
-
+<img src="src\assets\images\portfolio-screenshot.JPG" alt= "Screenshot of portfolio landing page">
 
 ## Tests
 
