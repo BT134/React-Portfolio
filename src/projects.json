@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Novice Chef",
+        "image": "https://github.com/BT134/novice-chef/raw/main/assets/images/screenshot.JPG",
+        "github": "https://github.com/BT134/novice-chef",
+        "deploy": "https://bt134.github.io/novice-chef/",
+        "topics": "HTML, CSS, JavaScript, JQuery, API"
+    },
+    {
+        "id": 2,
+        "name": "TheGoods",
+        "image": "https://github.com/BT134/TheGoods/raw/main/assets/images/Screenshot2.JPG",
+        "github": "https://github.com/BT134/TheGoods",
+        "deploy": "https://morning-ravine-85802.herokuapp.com/",
+        "topics": "Node.JS, Sequelize, Handlebars, Express.js, MySQL, Model-View-Controller, dotenv, Gulp, npm"
+    },
+    {
+        "id": 3,
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/BT134/bts-portfolio/raw/main/Assets/images/work-day-scheduler.JPG",
+        "github": "https://github.com/BT134/work-day-scheduler-api",
+        "deploy": "https://bt134.github.io/work-day-scheduler-api/",
+        "topics": "HTML, CSS, JavaScript, Moment.js, JQuery, Bootstrap"
+    },
+    {
+        "id": 4,
+        "name": "Web Coding Quiz",
+        "image": "https://github.com/BT134/web-code-quiz/raw/main/assets/images/screenshot.JPG",
+        "github": "https://github.com/BT134/web-code-quiz",
+        "deploy": "https://bt134.github.io/web-code-quiz/",
+        "topics": "HTML, CSS, JavaScript, API"
+    },
+    {
+        "id": 5,
+        "name": "Tech Blog",
+        "image": "https://github.com/BT134/techiest-tech-blog/raw/main/assets/images/signup-screen.JPG",
+        "github": "https://github.com/BT134/techiest-tech-blog",
+        "deploy": "https://polar-plains-43062.herokuapp.com/",
+        "topics": "Node, Sequelize, Handlebars, Express-session, Jawsdb, MySQL, Model-View-Controller, Dotenv"
+    },
+    {
+        "id": 6,
+        "name": "Budget Tracket",
+        "image": "https://github.com/BT134/The-one-and-only-buget-tracker/raw/main/public/assets/screenshot.JPG",
+        "github": "https://github.com/BT134/The-one-and-only-buget-tracker",
+        "deploy": "https://the-one-and-only-budgettracker.herokuapp.com/",
+        "topics": "HTML, CSS, Javascript, Node, npm, Mongoose, Express.js, Compression, Progresive Web App"
+    }
+] 

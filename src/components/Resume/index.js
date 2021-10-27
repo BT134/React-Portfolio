@@ -15,8 +15,6 @@ function Resume() {
             Always continuously learning new technology and applying what I have learnt.
             </li>
           </ul>
-
-
         </div>
       </div>
 
@@ -42,7 +40,6 @@ function Resume() {
               />
             </a>
           </p>
-
           <a
             href="https://github.com/BT134/React-Portfolio/raw/main/docs/Brenton-Turnor-Resume.pdf"
             class="link"
@@ -50,7 +47,13 @@ function Resume() {
             Download Resume
           </a>
     </div>
-    
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
     </section>
   );
 }
